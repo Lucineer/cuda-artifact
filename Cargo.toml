@@ -1,0 +1,5 @@
+[package]
+name = "cuda-artifact"
+version = "0.1.0"
+edition = "2021"
+description = "Artifact layer — deliberation output becomes adaptive executable programs"
